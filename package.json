@@ -1,0 +1,14 @@
+{
+  "name": "node-scaffold",
+  "version": "1.0.0",
+  "description": "Scaffold used to start NodeJS projects.",
+  "main": "index.js",
+  "repository": "git@github.com:Natan19/node-scaffold.git",
+  "author": "Natan19 <nathanpereira.21@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
